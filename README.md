@@ -11,19 +11,6 @@ Desarrollar aplicaciones web interactivas y amigables al usuario.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 INSTRUCCIONES	
 Estructurar un sitio web estático usando HTML5. El sitio web será informativo sobre un tema que será autoría del estudiante. El sitio web deberá contar con una página principal denominada index.html y debe contener al menos cinco páginas
 *.html más. Todas las páginas contaran con un menú de navegación que permitirá al usuario moverse entre todas las páginas HTML.
@@ -81,65 +68,50 @@ navegar entre los artículos usando id’s (ver, página 63 del texto guía).
 
 ACTIVIDADES POR DESARROLLAR
 1.	Crear un repositorio en GitHub con el nombre “Practica01 – Mi Blog”
-
- 
+![image](https://user-images.githubusercontent.com/49315481/55774803-4e614780-5a5c-11e9-9e22-c5bba0110cf0.png)
 
 2.	Realizar un commit y push por cada requerimiento de los puntos antes descritos.
 
-Commit y push de creación de <section>, <article> y <aside>.
-
- 
-
- 
-
+![image](https://user-images.githubusercontent.com/49315481/55774870-92ece300-5a5c-11e9-9215-95f16a456f33.png)
 Commit y push de tablas 
  
-
+![image](https://user-images.githubusercontent.com/49315481/55774875-97b19700-5a5c-11e9-8b7d-245bc427056a.png)
 
 Commit y push del video 
  
-
-
+![image](https://user-images.githubusercontent.com/49315481/55774880-9c764b00-5a5c-11e9-8c40-6d6f0dfbf7ef.png)
 Commit y push del hipervinculo 
  
+![image](https://user-images.githubusercontent.com/49315481/55774884-a1d39580-5a5c-11e9-8902-e904deb46452.png)
 
 Commit y push de navegación 
 
- 
-
-
-
-
-
-
+ ![image](https://user-images.githubusercontent.com/49315481/55774902-b0ba4800-5a5c-11e9-8e43-cd121974225b.png)
 
  Commit y push de listas 
 
- 
+ ![image](https://user-images.githubusercontent.com/49315481/55774912-badc4680-5a5c-11e9-99db-714a2ed879f3.png)
+
 
 3.	Al finalizar la práctica se debe validar todas las páginas HTML creadas usando el W3C Validator.
 
 a.	Página Apple
-
  
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/49315481/55774929-caf42600-5a5c-11e9-9d04-e745877782dc.png)
 
 
 b.	Página Hp
 
- 
+ ![image](https://user-images.githubusercontent.com/49315481/55774935-d21b3400-5a5c-11e9-8193-d22d877a9eb4.png)
+
 c.	Página Dell
+![image](https://user-images.githubusercontent.com/49315481/55774947-dd6e5f80-5a5c-11e9-98a6-5e967b3c1899.png)
 
  
- 
-
 d.	Pagina Alienware
 
- 
+![image](https://user-images.githubusercontent.com/49315481/55774954-e5c69a80-5a5c-11e9-8e92-74f0c2784aa6.png)
+![image](https://user-images.githubusercontent.com/49315481/55774962-ec551200-5a5c-11e9-9197-781618a2845c.png)
 
  
 e.	Pagina Asus
@@ -148,45 +120,29 @@ e.	Pagina Asus
 
 f.	Pagina Lenovo 
 
+![image](https://user-images.githubusercontent.com/49315481/55774968-f6771080-5a5c-11e9-91bc-da0289daf8b1.png)
 
- 
 g.	Página index.html
 
- 
-
-
-
-
-
-
-
-
-
-
+ ![image](https://user-images.githubusercontent.com/49315481/55774975-0262d280-5a5d-11e9-97e5-e2865c27fb9e.png)
+![image](https://user-images.githubusercontent.com/49315481/55774984-07278680-5a5d-11e9-9a19-97a040f5cd91.png)
 
 4.	Luego, se debe crear el archivo README del repositorio de GitHub.
 5.	Resolver los siguientes puntos:
 a.	La evidencia de la correcta estructuración de las páginas HTML. Para lo cual, se puede generar fotografías instantáneas (pantallazos).
  
+ ![image](https://user-images.githubusercontent.com/49315481/55775141-b2384000-5a5d-11e9-8d69-8af2a70df944.png)
+ ![image](https://user-images.githubusercontent.com/49315481/55775152-bd8b6b80-5a5d-11e9-93d6-af882a434f02.png)
+![image](https://user-images.githubusercontent.com/49315481/55775164-c3814c80-5a5d-11e9-8b11-6c2cfe671027.png)
+
+![image](https://user-images.githubusercontent.com/49315481/55775169-c8460080-5a5d-11e9-8e58-26fad0beb936.png)
+
+![image](https://user-images.githubusercontent.com/49315481/55775174-cd0ab480-5a5d-11e9-836f-8319d738374e.png)
+
+![image](https://user-images.githubusercontent.com/49315481/55775183-d3009580-5a5d-11e9-83b3-b85631fae80c.png)
+
+![image](https://user-images.githubusercontent.com/49315481/55775188-d7c54980-5a5d-11e9-9fb3-17ee04f44825.png)
  
-
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
- 
-
-
 b.	En el informe se debe incluir la información de GitHub (usuario y URL del repositorio de la práctica)
 Usuario: JavierYungaT
 Repositorio: https://github.com/JavierYungaT/Practica01-Mi-Blog
@@ -205,8 +161,8 @@ RECOMENDACIONES:
 
 
 
-Estudiante: Javier Yunga 
-
+Estudiante: Javier Yunga
+![image](https://user-images.githubusercontent.com/49315481/55775197-deec5780-5a5d-11e9-94a8-e9f9b8f18ab8.png)
  
 Docente: Ing. Gabriel León Paredes, PhD.
 Firma:  
