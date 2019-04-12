@@ -1,0 +1,52 @@
+*{
+    border-style: outset;
+    
+}
+
+#cabecera{
+    border-width: 2px;
+    margin-left: 10px;
+    padding: 5px 20px;
+    border-width: 3px;
+    border-color: brown;
+    border-radius: 150%;
+    background-attachment:fixed;
+   
+}
+#menuprincipal{
+    width: 20%;
+    border: 2px;
+    float: left;
+}
+#contenido{
+    width: 75%;
+    margin-left:10px;
+    padding: 5px 20px ;
+    border: 3px;
+    background-color: cadetblue;
+    float: left;
+    
+    
+}
+.imagen1{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.imagen2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#body{
+    background-image: url("../imagenes/logo4.png");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-attachment:fixed;   
+}
+footer{
+    clear: both;
+}
+#pie{
+    text-align: center;
+}
